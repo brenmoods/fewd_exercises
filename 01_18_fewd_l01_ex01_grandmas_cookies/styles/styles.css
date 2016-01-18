@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe;
+    border-style: solid;
+    border-width: 4px;
+	border-color: black;}
+}
+
+p {
+    padding-left: 2cm;
+}
+
+a:link, a:visited { 
+    color: #900;
+}
+
+h1 {
+   font-family: gotham, helvetica, sans-serif;
+}
+
+h2 {
+    font-family: gotham, helvetica, sans-serif;
+	color:#887;"
+}
+
+h3 {
+    font-family: gotham, helvetica, sans-serif;
+	color:#887;"
+}
